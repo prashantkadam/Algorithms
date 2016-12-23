@@ -1,0 +1,8 @@
+"The Run time for generating all sequences of size 4 is " 0.000000 "seconds" 
+"The Run time for generating all sequences of size 5 is " 0.000000 "seconds" 
+"The Run time for generating all sequences of size 6 is " 0.000000 "seconds" 
+"The Run time for generating all sequences of size 7 is " 0.020000 "seconds" 
+"The Run time for generating all sequences of size 8 is " 0.540000 "seconds" 
+"The Run time for generating all sequences of size 9 is " 12.230000 "seconds"
+"The Run time for generating all sequences of size 10 is " 306.020000 "seconds"
+"The Run time for generating all sequences of size 11 is "  Cpu Limit Exceeded
