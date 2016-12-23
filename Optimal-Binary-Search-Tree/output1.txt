@@ -1,0 +1,5 @@
+"Isabelle" is root of optimal binary search tree
+"Don" is left child of "Isabelle"
+"Ralph" is right child of "Isabelle"
+"Wally" is right child of "Ralph"
+
